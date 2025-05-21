@@ -1,0 +1,37 @@
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Environnements virtuels Python
+venv/
+__pycache__/
+*.py[cod]
+
+# Node.js / JavaScript / TypeScript
+node_modules/
+dist/
+build/
+
+# Logs & configs
+*.log
+.env
+.env.*
+
+# JetBrains / VSCode
+.idea/
+.vscode/
+*.code-workspace
+
+# Systèmes de packaging
+*.egg-info/
+*.egg
+
+# OS Linux/Windows
+*.swp
+*.bak
+*.tmp
+
+# Tests
+coverage/
+.nyc_output/
+Ajout d’un gitignore générique
